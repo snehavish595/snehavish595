@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Sneha%20👋&fontSize=40&fontAlignY=40&desc=Welcome%20to%20my%20GitHub%20Universe!&descAlignY=60" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7C620&width=435&lines=Code+Alchemist;+Open-Source+Explorer;+Passionate+Learner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F7C620&width=435&lines=Software+Developer;+Open-Source+Contributer;+Passionate+Learner;+Frontend+Developer;" />
 </p>
 
 ---
@@ -42,28 +42,7 @@ I love transforming ideas into digital experiences, collaborating on open-source
 <p align="center">
   <a href="https://linkedin.com/in/snehavish595"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"></a>
   <a href="mailto:snehavish595@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
-  <a href="https://twitter.com/snehavish595"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white"></a>
 </p>
-
----
-
-### 🔥 Fun Facts
-
-- I believe every bug is just an unturned stone—each one hides a new lesson.
-- I sketch, paint & animate when I’m not coding.
-- My favorite emoji: ✨
-
----
-
-<details>
-  <summary><b>🌌 My Developer Journey</b></summary>
-  <ul>
-    <li>Started with curiosity, continued with passion.</li>
-    <li>Built projects, broke code, fixed bugs, and made friends.</li>
-    <li>The best is yet to come. Join me on this cosmic adventure!</li>
-  </ul>
-</details>
-
 ---
 
 <p align="center">
