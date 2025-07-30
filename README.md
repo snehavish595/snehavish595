@@ -10,7 +10,7 @@
 
 ### 🌟 About Me
 
-Hey there! I’m **Sneha Vish**, a passionate developer, creative thinker, and lifelong learner.  
+Hey there! I’m **Sneha Vishwakarma**, a passionate developer, creative thinker, and lifelong learner.  
 I love transforming ideas into digital experiences, collaborating on open-source, and exploring new tech frontiers.
 
 - 🎨 **Design:** I bring ideas to life with UI/UX magic.
