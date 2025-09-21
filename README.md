@@ -21,9 +21,9 @@ I love transforming ideas into digital experiences, collaborating on open-source
 
 ### ✨ What I Do
 
-- **Frontend:** React, Vue, Next.js, Tailwind, Figma
-- **Backend:** Node.js, Express, Python, Django
-- **DevOps:** GitHub Actions, Docker, CI/CD
+- **Frontend:** React, Next.js, Tailwind, Bootstrap, HTML, CSS
+- **Backend:** Python, Django, Node.js, Express.js
+- **Databases & Tools:** MySQL, MongoDB, Git, GitHub
 - **Fun:** Hackathons, Tech Blogs, Art & Animation
 
 ---
